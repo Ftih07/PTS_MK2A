@@ -1,0 +1,22 @@
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\Login_Form\Login_Form\bin\Debug\Login_Form.exe.config
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\Login_Form\Login_Form\bin\Debug\Login_Form.exe
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\Login_Form\Login_Form\bin\Debug\Login_Form.pdb
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.AssemblyReference.cache
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\Login_Form\Login_Form\obj\Debug\Login_Form.FormLogin.resources
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\Login_Form\Login_Form\obj\Debug\Login_Form.Properties.Resources.resources
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.GenerateResource.cache
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.CoreCompileInputs.cache
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\Login_Form\Login_Form\obj\Debug\Login_Form.exe
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\Login_Form\Login_Form\obj\Debug\Login_Form.pdb
+D:\Backup Laptop\Sekolah\XI PPLG 1\MK2A\Login_Form\Login_Form\obj\Debug\Login_Form.FormKasir.resources
+D:\Download\Login_Form-main\Login_Form-main\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.AssemblyReference.cache
+D:\Download\Login_Form-main\Login_Form-main\Login_Form\Login_Form\obj\Debug\Login_Form.FormKasir.resources
+D:\Download\Login_Form-main\Login_Form-main\Login_Form\Login_Form\obj\Debug\Login_Form.FormLogin.resources
+D:\Download\Login_Form-main\Login_Form-main\Login_Form\Login_Form\obj\Debug\Login_Form.Properties.Resources.resources
+D:\Download\Login_Form-main\Login_Form-main\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.GenerateResource.cache
+D:\Download\Login_Form-main\Login_Form-main\Login_Form\Login_Form\obj\Debug\Login_Form.csproj.CoreCompileInputs.cache
+D:\Download\Login_Form-main\Login_Form-main\Login_Form\Login_Form\obj\Debug\Login_Form.exe
+D:\Download\Login_Form-main\Login_Form-main\Login_Form\Login_Form\obj\Debug\Login_Form.pdb
+D:\Download\Login_Form-main\Login_Form-main\Login_Form\Login_Form\bin\Debug\Login_Form.exe.config
+D:\Download\Login_Form-main\Login_Form-main\Login_Form\Login_Form\bin\Debug\Login_Form.exe
+D:\Download\Login_Form-main\Login_Form-main\Login_Form\Login_Form\bin\Debug\Login_Form.pdb
